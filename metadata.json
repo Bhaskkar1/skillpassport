@@ -1,0 +1,6 @@
+{
+  "name": "Credento: Skill Passport",
+  "description": "Portable verified skill passport converting coursework, projects, competitions & micro-credentials into blind, bias-free matches for internships and multidisciplinary teams with evidence-backed recommendations and missing skill analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
